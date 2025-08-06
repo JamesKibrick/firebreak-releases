@@ -1,23 +1,23 @@
 {
   "stable": {
-    "version": "1.0.1",
-    "build": 3,
-    "release_date": "2025-08-06T08:38:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
-    "installer_size": 46268742,
-    "installer_hash": "sha256:bc29026b776a5e76dbdfcfdcd2fe6fa4393297a08b9f5a40c433aa375ecd95c8",
-    "changelog": "Version 1.0.1 - Update System Improvements:\n- Added update settings in Settings tab\n- Configurable auto-update checking\n- Update channel selection (Stable/Beta)\n- Manual update check button\n- Improved update status display",
+    "version": "1.0.0",
+    "build": 2,
+    "release_date": "2025-08-06T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.0/FileTransferSetup_v1.0.0.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:c14e092b20d044c8131057bbf72666d596651c9ff64a618a08631f4a04c54d5b",
+    "changelog": "Initial release with professional packaging:\n- Version management system\n- Professional Windows installer\n- Auto-update system foundation\n- Enhanced GUI with version display",
     "minimum_version": "0.9.0",
     "mandatory": false
   },
   "beta": {
-    "version": "1.0.1",
-    "build": 3,
-    "release_date": "2025-08-06T08:38:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
-    "installer_size": 46268742,
-    "installer_hash": "sha256:bc29026b776a5e76dbdfcfdcd2fe6fa4393297a08b9f5a40c433aa375ecd95c8",
-    "changelog": "Beta version 1.0.1 - Same as stable",
+    "version": "1.0.0",
+    "build": 2,
+    "release_date": "2025-08-06T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.0/FileTransferSetup_v1.0.0.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:c14e092b20d044c8131057bbf72666d596651c9ff64a618a08631f4a04c54d5b",
+    "changelog": "Beta channel - same as stable for now",
     "minimum_version": "0.9.0",
     "mandatory": false
   }
