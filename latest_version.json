@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "version": "1.0.0",
+    "build": 2,
+    "release_date": "2025-08-06T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.0/FileTransferSetup_v1.0.0.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:PLACEHOLDER_HASH_WILL_BE_UPDATED",
+    "changelog": "Initial release with professional packaging:\n- Version management system\n- Professional Windows installer\n- Auto-update system foundation\n- Enhanced GUI with version display",
+    "minimum_version": "0.9.0",
+    "mandatory": false
+  },
+  "beta": {
+    "version": "1.0.0",
+    "build": 2,
+    "release_date": "2025-08-06T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.0/FileTransferSetup_v1.0.0.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:PLACEHOLDER_HASH_WILL_BE_UPDATED",
+    "changelog": "Beta channel - same as stable for now",
+    "minimum_version": "0.9.0",
+    "mandatory": false
+  }
+}
