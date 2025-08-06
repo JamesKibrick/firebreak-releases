@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "version": "1.0.1",
+    "build": 3,
+    "release_date": "2025-08-06T08:38:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
+    "installer_size": 46268742,
+    "installer_hash": "sha256:bc29026b776a5e76dbdfcfdcd2fe6fa4393297a08b9f5a40c433aa375ecd95c8",
+    "changelog": "Version 1.0.1 - Update System Improvements:\n- Added update settings in Settings tab\n- Configurable auto-update checking\n- Update channel selection (Stable/Beta)\n- Manual update check button\n- Improved update status display",
+    "minimum_version": "0.9.0",
+    "mandatory": false
+  },
+  "beta": {
+    "version": "1.0.1",
+    "build": 3,
+    "release_date": "2025-08-06T08:38:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
+    "installer_size": 46268742,
+    "installer_hash": "sha256:bc29026b776a5e76dbdfcfdcd2fe6fa4393297a08b9f5a40c433aa375ecd95c8",
+    "changelog": "Beta version 1.0.1 - Same as stable",
+    "minimum_version": "0.9.0",
+    "mandatory": false
+  }
+}
