@@ -1,23 +1,23 @@
 {
   "stable": {
-    "version": "1.0.1",
-    "build": 3,
-    "release_date": "2025-08-06T11:40:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
+    "version": "1.0.2",
+    "build": 1,
+    "release_date": "2025-08-06T12:10:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.2/FileTransferSetup_v1.0.2.exe",
     "installer_size": 46241087,
-    "installer_hash": "sha256:4e528d75581a5c9eb6151d76a4e5f01f64ee7892fece1cabaf00c04b27ca4c58",
-    "changelog": "System Tray Support:\n- Application now starts with system tray enabled by default\n- No need for manual --tray flag\n- Minimize to tray for background operation\n\nAuto-Update Test:\n- First test of auto-update system\n- Update notification should appear for v1.0.0 users",
+    "installer_hash": "sha256:5133e4546ba5c0e0ff40c166f0e8c0de6d961cbc60351b243eb46b9c1f5c0e84",
+    "changelog": "GUI Tab Reordering:\n- Settings tab moved to rightmost position (6th tab)\n- New order: Send, Receive, Decrypt, Whitelist, Devices, Settings\n\nAuto-Update Test:\n- Testing update flow from v1.0.1\n- Verifies auto-update system is working",
     "minimum_version": "0.9.0",
     "mandatory": false
   },
   "beta": {
-    "version": "1.0.1",
-    "build": 3,
-    "release_date": "2025-08-06T11:40:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.1/FileTransferSetup_v1.0.1.exe",
+    "version": "1.0.2",
+    "build": 1,
+    "release_date": "2025-08-06T12:10:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.2/FileTransferSetup_v1.0.2.exe",
     "installer_size": 46241087,
-    "installer_hash": "sha256:4e528d75581a5c9eb6151d76a4e5f01f64ee7892fece1cabaf00c04b27ca4c58",
-    "changelog": "System Tray Support (Beta):\n- Same as stable channel for v1.0.1",
+    "installer_hash": "sha256:5133e4546ba5c0e0ff40c166f0e8c0de6d961cbc60351b243eb46b9c1f5c0e84",
+    "changelog": "Beta channel - Same as stable v1.0.2",
     "minimum_version": "0.9.0",
     "mandatory": false
   }
