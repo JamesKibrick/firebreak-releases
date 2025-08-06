@@ -1,23 +1,23 @@
 {
   "stable": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "build": 1,
-    "release_date": "2025-08-06T12:10:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.2/FileTransferSetup_v1.0.2.exe",
-    "installer_size": 46241087,
-    "installer_hash": "sha256:5133e4546ba5c0e0ff40c166f0e8c0de6d961cbc60351b243eb46b9c1f5c0e84",
-    "changelog": "GUI Tab Reordering:\n- Settings tab moved to rightmost position (6th tab)\n- New order: Send, Receive, Decrypt, Whitelist, Devices, Settings\n\nAuto-Update Test:\n- Testing update flow from v1.0.1\n- Verifies auto-update system is working",
-    "minimum_version": "0.9.0",
+    "release_date": "2025-08-06T18:34:18.872503Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.3/FileTransferSetup_v1.0.3.exe",
+    "installer_size": 46730455,
+    "installer_hash": "sha256:ac93abc8b25a3ba84aa8204e39883ad9aeeee7544f47018fd19cb9d0a8d8eeca",
+    "changelog": "Release v1.0.3 - See GitHub for full release notes",
+    "minimum_version": "1.0.0",
     "mandatory": false
   },
   "beta": {
-    "version": "1.0.2",
-    "build": 1,
-    "release_date": "2025-08-06T12:10:00Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.2/FileTransferSetup_v1.0.2.exe",
-    "installer_size": 46241087,
-    "installer_hash": "sha256:5133e4546ba5c0e0ff40c166f0e8c0de6d961cbc60351b243eb46b9c1f5c0e84",
-    "changelog": "Beta channel - Same as stable v1.0.2",
+    "version": "1.0.0",
+    "build": 2,
+    "release_date": "2025-08-06T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.0/FileTransferSetup_v1.0.0.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:PLACEHOLDER_HASH_WILL_BE_UPDATED",
+    "changelog": "Beta channel - same as stable for now",
     "minimum_version": "0.9.0",
     "mandatory": false
   }
