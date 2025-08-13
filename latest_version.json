@@ -1,25 +1,25 @@
 {
   "stable": {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "build": 1,
-    "release_date": "2025-08-13T22:53:53.983408Z",
+    "release_date": "2025-08-13T23:00:31.961040Z",
     "update_type": "incremental",
-    "changelog": "Release v1.0.13 - See GitHub for full release notes",
+    "changelog": "Release v1.0.14 - See GitHub for full release notes",
     "minimum_version": "1.0.0",
     "mandatory": false,
     "update_package": {
-      "url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.13/FileTransferUpdate_v1.0.13.zip",
-      "size": 8416789,
-      "hash": "sha256:1a5dd99492a89c0bfef3bbd8fe930974016ed770eab93586ef40a18cd6692e3d"
+      "url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.14/FileTransferUpdate_v1.0.14.zip",
+      "size": 8416781,
+      "hash": "sha256:8681e81ede707b8b2174c0d53ce34bd1b09cf77b4c8acce5a37bd5c688cb3c31"
     },
     "installer": {
-      "url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.13/FileTransferSetup_v1.0.13.exe",
-      "size": 31054311,
-      "hash": "sha256:1a6ccef5bf473faac74ee8ca4b1e00b5edd056c5231ae8118ceb159f5a7e93ed"
+      "url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.14/FileTransferSetup_v1.0.14.exe",
+      "size": 31054540,
+      "hash": "sha256:550deed3f4eda9383e2e51a17dd5d2439f46fae28b6884723b9d81829e5a24a9"
     },
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.13/FileTransferSetup_v1.0.13.exe",
-    "installer_size": 31054311,
-    "installer_hash": "sha256:1a6ccef5bf473faac74ee8ca4b1e00b5edd056c5231ae8118ceb159f5a7e93ed"
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.14/FileTransferSetup_v1.0.14.exe",
+    "installer_size": 31054540,
+    "installer_hash": "sha256:550deed3f4eda9383e2e51a17dd5d2439f46fae28b6884723b9d81829e5a24a9"
   },
   "beta": {
     "version": "1.0.0",
