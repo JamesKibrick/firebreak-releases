@@ -1,18 +1,18 @@
 {
   "stable": {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "build": 1,
-    "release_date": "2025-08-14T22:35:35.868047Z",
-    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.16/FileTransferSetup_v1.0.16.exe",
-    "installer_size": 31149697,
-    "installer_hash": "sha256:689183659f932d0fc772a20adf9c269e8a31e944df654b4b9d4b3c89d0eba990",
-    "changelog": "Release Date: 2025-08-13\n- Updated to version 1.0.16",
+    "release_date": "2025-08-14T22:44:54.757109Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.17/FileTransferSetup_v1.0.17.exe",
+    "installer_size": 31154836,
+    "installer_hash": "sha256:bf2e0d974f1bd69aab3c5325d9800c276b16c77589e1cbdf08e6f0ac04403aec",
+    "changelog": "Release Date: 2025-08-13\n- Updated to version 1.0.17",
     "minimum_version": "1.0.0",
     "mandatory": false,
-    "package_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.16/update_1.0.16.zip",
-    "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.16/update_1.0.16_manifest.json",
-    "package_size": 54483432,
-    "package_hash": "sha256:8d127068bd6f9aab68d95094d3e5ba43a05567e81a64ee25db40e9e8ed167704"
+    "package_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.17/update_1.0.17.zip",
+    "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.17/update_1.0.17_manifest.json",
+    "package_size": 54487169,
+    "package_hash": "sha256:bbdc6d5e79bd90fdde399f8e11a207c86f55264657986f372d8ed23cdb1d7d27"
   },
   "beta": {
     "version": "1.0.0",
