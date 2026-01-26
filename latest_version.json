@@ -1109,7 +1109,21 @@
     "signature": "CZKFydCdleZ0lqoinu30fv2yYIFgpdiy48sWi1OHQ4rRvqKBOcUdgTjUNnea0bDRCSAm0nP9Du1OPV0oQ4L0JtHBiSbVnt9Go0aST0NDTPw6sgneX47vFg/s1chtR8d78QUgADchimGMNCZALhONRegVpLE0b4VrZI6ACNRIQm6Fwq9eLUudqBnuZxGNPSp/bp+sqpj9adcC7eI5fq4UBJclCVBhoeirzZvc1acNsXBrhpCGaoofE8K+NDR0jfjDR6yLhXOuGXM2ejST60DDkVlg6+UF6v/fUd2U8OOEB0PdZeGW/PGKOVf6Ug9Do//07OKkdyOz8xbAzwShoMma/w==",
     "changelog": "Release Date: 2025-08-13\n- Updated to version 1.0.27",
     "minimum_version": "1.0.0",
-    "mandatory": false
+    "mandatory": false,
+    "macos": {
+      "version": "1.0.106",
+      "build": 2,
+      "release_date": "2026-01-26T07:27:02.065614Z",
+      "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.106/Redmail_v1.0.106_b2.dmg",
+      "installer_size": 59278450,
+      "installer_hash": "sha256:b4bce78979709fdc571d84ed4e76d1fdd17ff2e8f22c65b6b75dafbb66841223",
+      "minimum_version": "1.0.0",
+      "mandatory": false,
+      "package_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.106/update_macos.zip",
+      "package_hash": "sha256:bf8630ce3ac65d4a8505169b842ce9e50f321af0ddc10b3ad0de8171f28e74fb",
+      "package_size": 116809714,
+      "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.106/manifest_macos.json"
+    }
   },
   "beta": {
     "version": "1.0.0",
