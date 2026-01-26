@@ -1123,6 +1123,21 @@
       "package_hash": "sha256:bf8630ce3ac65d4a8505169b842ce9e50f321af0ddc10b3ad0de8171f28e74fb",
       "package_size": 116809714,
       "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.106/manifest_macos.json"
+    },
+    "windows": {
+      "version": "1.0.108",
+      "build": 1,
+      "release_date": "2026-01-26T15:58:10.459210Z",
+      "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.108/FileTransferSetup_v1.0.108.exe",
+      "installer_size": 45565920,
+      "installer_hash": "sha256:e4166bb75aa1a9c6149fce577c42db13d67f037e3a669d497b27053861917197",
+      "package_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.108/update.zip",
+      "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.108/manifest.json",
+      "package_hash": "sha256:4a1d1ad756039f03f07e17f47f172ed29781c1fdbc9adb82080a8bc364f3ed3c",
+      "package_size": 77090252,
+      "changelog": "Release v1.0.108 - See GitHub for full release notes",
+      "minimum_version": "1.0.0",
+      "mandatory": false
     }
   },
   "beta": {
